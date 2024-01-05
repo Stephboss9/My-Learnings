@@ -91,11 +91,3 @@ async function getData() {
         console.log('Error:', error);
     }
 }
-
-```
-
-[Prototypes & Inheritance](https://www.notion.so/Prototypes-Inheritance-6d3637eb1c2a4e2597018de4d0df3bbe?pvs=21)
-
-[The This Keyword](https://www.notion.so/The-This-Keyword-dc1217d2144a49138426ea36f069709a?pvs=21)
-
-[Arrow Functions](https://www.notion.so/Arrow-Functions-06a3b4f3c7a3478aa12529e18923628b?pvs=21)
